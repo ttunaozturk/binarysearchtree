@@ -20,12 +20,12 @@ Tablo ile açıklamak gerekir ise:
 
                      5
                     / \
-                   3   \  
-                  / \   \
-                 2   4   7   
-                /   /   / \
-               0   1   6   9
-                          /
-                         8
-                         
+                   /   \  
+                  /     \
+                 /       7   
+                2       / \
+               / \     6   9
+              1   3        /
+             /     \      8
+            0       4      
           (Patika.dev)[www.patika.dev)
