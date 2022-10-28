@@ -28,11 +28,6 @@ Tablo ile açıklamak gerekir ise:
               1   3        /
              /     \      8
             0       4      
-  --------------------------------       
-         
-         
-         
-         
-         
-         
-         [Patika.dev](https://www.patika.dev/tr)
+  
+  
+  [Patika.dev](https://www.patika.dev/tr)
